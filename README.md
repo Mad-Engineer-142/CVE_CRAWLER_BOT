@@ -11,15 +11,15 @@ BI.ZONE-CVE-Crawler - Telegram Bot
 <h2 align="left">
     Описание решения задачи
 </h2>
-:white_small_square:Бот развернут на https://sbercloud.ru
-:white_small_square:Python Version 3.10
-:white_small_square:Aiogram (telegram lib)
-:white_small_square:Пасит CVE с 
-    :radio_button:https://cvetrends.com/
-    :radio_button:https://cve.mitre.org/
-    :radio_button:https://www.kali.org/tools/exploitdb/
-    :radio_button:https://github.com/Sprocket-Security/cvetrends
-    :radio_button:и тд
+:white_small_square:Бот развернут на https://sbercloud.ru<br>
+:white_small_square:Python Version 3.10<br>
+:white_small_square:Aiogram (telegram lib)<br>
+:white_small_square:Пасит CVE с<br>
+    :radio_button:https://cvetrends.com/<br>
+    :radio_button:https://cve.mitre.org/<br>
+    :radio_button:https://www.kali.org/tools/exploitdb/<br>
+    :radio_button:https://github.com/Sprocket-Security/cvetrends<br>
+    :radio_button:и тд<br>
 
 
 
