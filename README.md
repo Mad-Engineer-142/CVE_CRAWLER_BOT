@@ -2,36 +2,31 @@
     <img src="assets/logo.png">
 </p>
 
-<h1 align="center">
+<h1 align="left">
 BI.ZONE-CVE-Crawler - Telegram Bot
 </h1>
 
-<p align="justify">&emsp;&emsp;Данный репозиторий включает в себя реализацию кейса по разработке Telegram бота, который позволяет отсеживать в гибкой форме изменения базы CVE от компании BI.ZONE с хакатона "киб_хак" (11.05.2023 - 18.05.2023).</p>
+<p align="left">&emsp;&emsp;Данный репозиторий включает в себя реализацию кейса по разработке Telegram бота, который позволяет отсеживать в гибкой форме изменения базы CVE от компании BI.ZONE с хакатона "киб_хак" (11.05.2023 - 18.05.2023).</p>
 
-<h2 align="center">
-    Описание задачи от BI.ZONE: Разработка CVE Crawler Telegram Bot
+<h2 align="left">
+    Описание решения задачи
 </h2>
+:white_small_square:Бот развернут на https://sbercloud.ru
+:white_small_square:Python Version 3.10
+:white_small_square:Aiogram (telegram lib)
+:white_small_square:Пасит CVE с 
+    :radio_button:https://cvetrends.com/
+    :radio_button:https://cve.mitre.org/
+    :radio_button:https://www.kali.org/tools/exploitdb/
+    :radio_button:https://github.com/Sprocket-Security/cvetrends
+    :radio_button:и тд
 
-<h3 align="center">
-    Вводная часть
-</h3> 
-
-<p align="justify">&emsp;&emsp;Специалистам, работающим в области кибербезопасности, необходимо всегда быть в курсе самых актуальных киберугроз, чтобы своевременно противостоять им. На текущий момент существует большее количество источников информации об уязвимостях и новых кибератаках - новостные веб-сайты, форумы, Telegram каналы, Jabber каналы и т.д. Однако, далеко не вся информация с источников бывает актуальной и применимой к конкретной компании. Для того чтобы найти актуальную для себя информацию, приходится тратить слишком много времени вычитывая различные ресурсы.</p>
-
-<p align="justify">&emsp;&emsp;Существует множество решений, которые автоматизируют процесс поиска, например: https://t.me/pocfather_bot, https://nvd.nist.gov, https://github.com/carlospolop/BotPEASS/ или https://cvetrends.com с открытым API. Однако, такие решения показывают малое количество информации и не имеют возможности расширенной конфигурации отображаемых параметров.</p>
 
 
-<h2 align="center">
-    Описание решения
-</h2>
 
-<h3 align="center">
-    Авторы
-</h3>
-
-Команда - **Impulse**:
-<p align="justify">&emsp;&emsp;1) Иорин Давид Андреевич (Team Leader)</p>
-<p align="justify">&emsp;&emsp;2) Богданов Данила Андреевич</p>
-<p align="justify">&emsp;&emsp;3) Беляев Иван Дмитриевич</p>
-<p align="justify">&emsp;&emsp;4) Малахов Арсений Константинович</p>
-<p align="justify">&emsp;&emsp;5) Морозов Андрей Александрович</p>
+:purple_square:**Impulse Team**:purple_square::
+<p align="justify">&emsp;&emsp;:small_blue_diamond: Иорин Давид Андреевич (Team Leader)</p>
+<p align="justify">&emsp;&emsp;:small_blue_diamond: Богданов Данила Андреевич</p>
+<p align="justify">&emsp;&emsp;:small_blue_diamond: Беляев Иван Дмитриевич</p>
+<p align="justify">&emsp;&emsp;:small_blue_diamond: Малахов Арсений Константинович</p>
+<p align="justify">&emsp;&emsp;:small_blue_diamond: Морозов Андрей Александрович</p>
